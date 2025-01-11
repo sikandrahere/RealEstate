@@ -5,5 +5,3 @@
 
 - Investing: Discover investment opportunities effortlessly.
 
-## check live
-(https://sikandrahere.github.io/realestate/)
